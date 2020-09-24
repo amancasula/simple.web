@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+body{
+font-family: 'Concert One', cursive;
+background-color:#677DB7;
+color:#fff;
+text-align:center;
+font-size:2em;
+}
+a{
+color:#C4DCC1;
+}
+a:hover{
+color:#CD5C5C;
+}
+h3{
+text-transform:uppercase;
+text-decoration:underline;
+}
+a{
+text-decoration:none;
+}
